@@ -17,3 +17,14 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
 <br></br>
+
+## 🔗 Contato
+
+<a href="https://gmail.com">
+  https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail
+</a>
+<a href="https://www.linkedin.com/in/fernando-r-da-silva-270846170/">
+  https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin
+</a>
+
+![Likedin](https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin)
