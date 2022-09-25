@@ -20,9 +20,11 @@
 
 ## 🔗 Contato
 
+<p>
 <a href="https://gmail.com" target="_blank">
  <img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/fernando-r-da-silva-270846170/" target="_blank">
   <img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin"/>
 </a>
+</p>
